@@ -447,8 +447,9 @@
                       <tr>
                         <td valign="top" colspan="3">
                           <p>男
-                            <span class="p5">|</span>33 岁 (1986/11)
+                            <span class="p5">|</span>32 岁 (1986/11)
                             <span class="p5">|</span>现居住南京
+                            <span class="p5">|</span>5 年工作经验
                           </p>
                         </td>
                       </tr>
@@ -543,7 +544,7 @@
                               <tr>
                                 <td valign="top" class="time">2016/6-至今</td>
                                 <td valign="top" class="rtbox">
-                                  <strong class="txt3">Web 开发</strong>
+                                  <strong class="txt3">Web 前端开发</strong>
                                   <span class="p5">|</span>
                                   <span>技术中心</span>
                                 </td>
@@ -551,7 +552,7 @@
                               <tr>
                                 <td class="phd tb1" colspan="2">
                                   <span>南京新与力文化传播有限公司（新力传媒）</span>
-                                  <span class="gray">&nbsp;[3年]
+                                  <span class="gray">&nbsp;[2年]
                                   </span>
                                 </td>
                               </tr>
@@ -569,11 +570,9 @@
                                         <td valign="top" class="txt1">1. 千万级商品详情页
                                           <br>负责公司千万级网页商品详情页的编写，对接口调用和网页结构进行优化，支撑商城“双11”期间的业务需求。
                                           <br>2. 服务器 nodejs 基础库的优化
-                                          <br>优化基础库，页面缓存和服务器端代码调优工作。
+                                          <br>优化基础库服务端不同语言加密和解密的方法，页面缓存和服务器端代码调优工作。
                                           <br>3. 工程化推进
-                                          <br>包括前端 js,css,html 的工程化打包，前端 es6 方案的支持，css 的分包方案，集成 webpack 打包方案等。
-                                          <br>4. 业务开发
-                                          <br>包括pc，移动端，移动端混合开发，小程序，商家端等系统开发和维护</td>
+                                          <br>包括前端 js,css,html 的工程化打包，前端 es6 方案的支持，css 的分包方案，集成 webpack 打包方案等。</td>
                                       </tr>
                                     </tbody>
                                   </table>
@@ -703,7 +702,8 @@
                                     <tbody>
                                       <tr>
                                         <td valign="top" class="keys">工作描述：</td>
-                                        <td valign="top" class="txt1"> 负责虚拟装修系统的开发工作，使用 Unity3d 开发。
+                                        <td valign="top" class="txt1">1. 负责虚拟装修系统的开发工作，使用 Unity3d 开发。
+                                          <br>2. 虚拟房产漫游系统的开发工作，使用 Unity3d 开发。</td>
                                       </tr>
                                     </tbody>
                                   </table>
@@ -930,7 +930,7 @@
                                         <td valign="top" class="txt1">
                                           1. Leaflet.ChineseTmsProviders
                                           <br>地址： https://github.com/htoooth/Leaflet.ChineseTmsProviders
-                                          <br>目的：对 leaflet 添加中国地图的使用。当前 356 Star 和 117 Fork 。
+                                          <br>目的：对 leaflet 添加中国地图的使用。当前 198 Star 和 69 Fork 。
                                           <br>语言：javascript
                                           <br>
                                           <br>2. 高性能地理计算理论与实践指引--地理信息技术资源整合
